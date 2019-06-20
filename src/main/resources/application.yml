@@ -6,4 +6,5 @@ spring:
           uri: https://github.com/salme1541/cloud-config-demo
 
 
-server.port=8881
+server:
+  port: 8881
